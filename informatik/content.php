@@ -8,7 +8,7 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
             <section class="text">
 
-				<h1>Startseite</h1>
+				<h1>Informatik</h1>
 			
 				
 

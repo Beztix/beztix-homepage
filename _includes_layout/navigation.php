@@ -25,38 +25,23 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 				</li>
 				
 				<li>
-					<a <?php if ($thisPage=="aktuelles") {echo " class=\"currentpage\"";} ?>  href="../aktuelles/index.php">AKTUELLES</a>
+					<a <?php if ($thisPage=="ueber_mich") {echo " class=\"currentpage\"";} ?>  href="../ueber_mich/index.php">ÜBER MICH</a>
 				</li>
 				
 				<li>
-					<a <?php if ($thisPage=="absolventenfeier") {echo " class=\"currentpage\"";} ?> href="../absolventenfeier/index.php">ABSOLVENTENFEIER</a>
-					<?php
-					//Submenü wird nur angezeigt wenn sich der Nutzer auf dieser Seite oder einer Unterseite befindet
-					if($thisPage=="absolventenfeier" || 
-						$thisPage=="anmeldung_absolventenfeier" || 
-						$thisPage=="anmeldung_feier_gast" || 
-						$thisPage=="absolventengalerie") {
-						include 'submenu_absolventenfeier.php';
-					}
-					?>
+					<a <?php if ($thisPage=="webdesign") {echo " class=\"currentpage\"";} ?> href="../webdesign/index.php">WEBDESIGN</a>
 				</li>
 				
 				<li>
-					<a <?php if ($thisPage=="mitgliedsantrag") {echo " class=\"currentpage\"";} ?> href="../mitgliedsantrag/index.php">MITGLIEDSANTRAG</a>
+					<a <?php if ($thisPage=="grafikdesign") {echo " class=\"currentpage\"";} ?> href="../grafikdesign/index.php">GRAFIKDESIGN</a>
 				</li>
 				
 				<li>
-					<a <?php if ($thisPage=="mitgliederbereich") {echo " class=\"currentpage\"";} ?> href="../mitgliederbereich/index.php">MITGLIEDERBEREICH</a>
-					<?php
-					//Submenü des Mitgliederbereichs wird nur angezeigt wenn der Nutzer eingelogged ist
-					if (!empty($_SESSION['login'])) {				
-						include 'submenu_mitgliederbereich.php';
-					} 
-					?>
+					<a <?php if ($thisPage=="projekte") {echo " class=\"currentpage\"";} ?> href="../projekte/index.php">PROJEKTE</a>
 				</li>
 				
 				<li>
-					<a <?php if ($thisPage=="kontakt") {echo " class=\"currentpage\"";} ?> href="../kontakt/index.php">KONTAKT</a>
+					<a <?php if ($thisPage=="informatik") {echo " class=\"currentpage\"";} ?> href="../informatik/index.php">INFORMATIK</a>
 				</li>
 			</ul>
 		</nav>
