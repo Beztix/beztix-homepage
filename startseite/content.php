@@ -8,8 +8,11 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
             <section class="text">
 
-				<h1>Startseite</h1>
+				<h1>Willkommen</h1>
 			
+			
+				<p>
+				... auf Beztix.de, meiner persönlichen Homepage.
 				
 
 			</section>

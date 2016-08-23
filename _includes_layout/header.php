@@ -19,13 +19,13 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 		</a>
 		
 		<div id="word-cloud">
-			<span class="word-1">GRAFIKDESIGN</span>
-			<span class="word-2">INFORMATIK</span>
-			<span class="word-3">HEIMWERKEN</span>
-			<span class="word-4">WEBDESIGN</span>
-			<span class="word-5">GAMING</span>
-			<span class="word-6">GEOMETRIE</span>
-			<span class="word-7">PERSÖNLICHES</span>
+			<span class="word-1"><a href="../grafikdesign/index.php">GRAFIKDESIGN</a></span>
+			<span class="word-2"><a href="../informatik/index.php">INFORMATIK</a></span>
+			<span class="word-3"><a href="../projekte/index.php">HEIMWERKEN</a></span>
+			<span class="word-4"><a href="../webdesign/index.php">WEBDESIGN</a></span>
+			<span class="word-5"><a href="../ueber_mich/index.php">GAMING</a></span>
+			<span class="word-6"><a href="../informatik/index.php">GEOMETRIE</a></span>
+			<span class="word-7"><a href="../ueber_mich/index.php">PERSÖNLICHES</a></span>
 		</div>
 	
 	</header>

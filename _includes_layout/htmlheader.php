@@ -19,7 +19,9 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link rel="shortcut icon" href="../_images_layout/favicon.ico">
 	
-	<link href="https://fonts.googleapis.com/css?family=Rajdhani:500" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Syncopate:400,700" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet"> 
 
 <?php 
 // Einfügen der in der index.php definierten Variablen, ansonsten Standard-Titel, Keywords und Description
