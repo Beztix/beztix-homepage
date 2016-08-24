@@ -17,7 +17,7 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<link rel="shortcut icon" href="../_images_layout/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="../_images_layout/favicon.ico">
 	
 	<link href="../_css/main.css" rel="stylesheet" type="text/css" charset="utf-8" />
 	<link href="../_css/lightbox.css" rel="stylesheet" type="text/css" charset="utf-8" />
