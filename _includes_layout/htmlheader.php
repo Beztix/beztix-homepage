@@ -22,6 +22,10 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 	<link href="https://fonts.googleapis.com/css?family=Syncopate:400,700" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Khula" rel="stylesheet"> 
 	<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet"> 
+	
+	<link href="../_css/squarish_sans.css" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../_css/new.css" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../_css/lightbox.css" rel="stylesheet" type="text/css" charset="utf-8" />
 
 <?php 
 // Einfügen der in der index.php definierten Variablen, ansonsten Standard-Titel, Keywords und Description
@@ -43,21 +47,16 @@ if(!isset($description)) {
 	$description = "Die private Homepage von Beztix aka Sebastian Lützow";
 }
 echo "\t<meta name=\"description\" content=\"" . $description . "\" />\n";
-?>
-  
-	<link href="../_css/new.css" rel="stylesheet"/>
-	<link href="../_css/lightbox.css" rel="stylesheet"/>
 
-<?php 
+
 //optionales Einbinden von zusätzlichem (seitenspezifischem) header-code	
 if(file_exists('headers.php')) { 
 	echo "\t"; 
 	include 'headers.php'; 
 	echo "\n"; 
 }; 
-?>
 
-<?php 
+
 //optionales Einbinden von zusätzlichen (seitenspezifischen) scripts 
 if(file_exists('scripts.php')) {
     echo "\t";

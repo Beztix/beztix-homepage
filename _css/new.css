@@ -135,11 +135,11 @@ header {
 	background-color: #fff;
 	text-decoration: none;
 	text-align: right;
-	font-size: 21px;
+	font-size: 23px;
 	font-weight: 700;
 	color: #808185;
 	text-shadow: 1.5px 1.5px 1.5px #000;
-	font-family: 'Syncopate', sans-serif;
+	font-family: 'squarish_sans', 'Syncopate', sans-serif;
 	z-index: 1;
 }
 
@@ -243,12 +243,12 @@ footer {
 	color: #aaa;
 	font-family: 'Syncopate', sans-serif;
 	font-size: 12px;
-	border-left: solid 3px #777;
+	border-left: solid 5px #777;
 	padding-left: 5px;
 }
 
 .footertext.currentpage {
-	border-left: solid 3px #dd6600;;
+	border-left: solid 5px #dd6600;;
 }
 
 .footertext a {
