@@ -15,7 +15,7 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 	<header>	
 	
 		<a href="http://www.beztix.de" id="logo_left" title="Beztix main page">
-			<img src="../_images_layout/beztixbanner.png" alt="Beztix logo">
+			<img src="../_images_layout/logo_mittel.png" alt="Beztix logo">
 		</a>
 		
 		<div id="word-cloud">
