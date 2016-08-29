@@ -156,10 +156,10 @@ header {
 #content {
 	position: relative;
 	background-color: #fff;
-	padding: 20px 10px 20px 30px;
+	padding: 20px 20px 20px 40px;
 	box-shadow: 5px 5px 5px #000, 0px 0px 12px rgba(0, 0, 0, 0.8);
 	float: right;
-	width: 700px;
+	width: 680px;
 	min-height: 800px;
 	z-index: 5;
 }
@@ -204,9 +204,16 @@ header {
 	margin: 10px 0 25px 0;
 }
 
+.text a {
+	color: #444;
+}
+
+
+
+
 
 .personal_data {
-	margin-left: 30px;
+	margin-left: 40px;
 }
 
 .personal_data .left {
@@ -221,31 +228,39 @@ header {
 
 
 .personal_skills {
-	margin-left: 30px;
+	margin-left: 20px;
 }
 
-.personal_skills .left1 {
+.personal_skills .left {
 	text-align: right;
 }
 
-.personal_skills .right1 {
-	padding-left: 10px;
-	font-size: 1.2em;
+.personal_skills .middle {
+	padding-left: 20px;
+	font-size: 1.3em;
 }
 
-.personal_skills .left2 {
-	text-align: right;
-	padding-left: 50px;
+.personal_skills .right {
+	padding-left: 10px;
 }
 
-.personal_skills .right2 {
-	padding-left: 10px;
-	font-size: 1.2em;
+.personal_skills .description {
+	padding-bottom: 25px;
+	font-size: 0.8em;
 }
+
+.personal_skills .description ul {
+	list-style-type: square;
+}
+
+tr.spacing > td {
+	padding-bottom: 25px;
+}
+
 
 .skills_icon {
 	vertical-align: middle;
-	height: 30px;
+	height: 25px;
 	padding: 3px 5px 3px 13px;
 }
 

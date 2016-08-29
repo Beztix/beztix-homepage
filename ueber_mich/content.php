@@ -40,127 +40,182 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 				</table>
 				
 				
-				
+				<br>
+				<br>
 				
 				<h3>Skills</h3>
 				
 				<table class="personal_skills">
 					<tr>
-						<td class="left1">
+						<td class="left">
 							HTML/CSS
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9724;&#9724;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/html.png" alt="html icon">
 						</td>
-						<td class="right1">
+						<td class="description" rowspan="4">
+							<ul>
+								<li>Korrektor/Übungsleiter der Vorlesungen zur WWW-Programmierung an der Uni Bayreuth</li>
+								<li>Eigenentwicklung und Betreuung diverser Websites, u.a. <a href="https://beztix.de">beztix.de</a> und <a href="https://alumpi.de">alumpi.de</a></li>
+								<li>Siehe auch <a href="../webdesign/index.php">Webdesign</a></li>
+							</ul>
+						</td>
+					</tr>
+					<tr>	
+						<td class="left">
+							PHP
+						</td>
+						<td class="middle">
 							&#9724;&#9724;&#9724;&#9724;&#9723;
 						</td>
-						
-						<td class="left2">
-							PHP
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/php.png" alt="php icon">
 						</td>
-						<td class="right2">
-							&#9724;&#9724;&#9724;&#9724;&#9723;
-						</td>
 					</tr>
 					<tr>
-						<td class="left1">
+						<td class="left">
 							JavaScript
-							<img class="skills_icon" src="../_images_content/javascript.png" alt="javascript icon">
 						</td>
-						<td class="right1">
+						<td class="middle">
 							&#9724;&#9723;&#9723;&#9723;&#9723;
 						</td>
-						
-						<td class="left2">
+						<td class="right">
+							<img class="skills_icon" src="../_images_content/javascript.png" alt="javascript icon">
+						</td>
+					</tr>
+					<tr class="spacing">	
+						<td class="left">
 							(Linux-)Server
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9724;&#9723;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/debian.png" alt="debian icon">
 						</td>
-						<td class="right2">
-							&#9724;&#9724;&#9724;&#9723;&#9723;
-						</td>
 					</tr>
+					
+					
+					
 					<tr>
-						<td class="left1">
+						<td class="left">
 							C
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9723;&#9723;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/c.png" alt="c icon">
 						</td>
-						<td class="right1">
-							&#9724;&#9724;&#9723;&#9723;&#9723;
+						<td class="description" rowspan="5">
+							<ul>
+								<li>C, und Java im Rahmen von Vorlesungen der Uni Bayreuth</li>
+								<li>Masterprojekt "alrecon" in C++</li>
+								<li>Bachelorarbeit, Masterprojekt "elastic shape matching" und Masterarbeit in Java</li>
+								<li>Siehe auch <a href="../informatik/index.php">Informatik</a></li>
+							</ul>
 						</td>
-						
-						<td class="left2">
+					</tr>
+					<tr>	
+						<td class="left">
 							C++
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9724;&#9723;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/cplusplus.png" alt="cplusplus icon">
 						</td>
-						<td class="right2">
-							&#9724;&#9724;&#9724;&#9723;&#9723;
-						</td>
 					</tr>
 					<tr>
-						<td class="left1">
+						<td class="left">
 							Java
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9724;&#9724;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/java.png" alt="java icon">
 						</td>
-						<td class="right1">
+					</tr>
+					<tr>	
+						<td class="left">
+							Latex
+						</td>
+						<td class="middle">
 							&#9724;&#9724;&#9724;&#9724;&#9723;
 						</td>
-						
-						<td class="left2">
-							Latex
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/latex.png" alt="latex icon">
 						</td>
-						<td class="right2">
-							&#9724;&#9724;&#9724;&#9724;&#9723;
-						</td>
 					</tr>
-					<tr>
-						<td class="left1">
+					<tr class="spacing">
+						<td class="left">
 							Git
+						</td>
+						<td class="middle">
+							&#9724;&#9724;&#9724;&#9723;&#9723;
+						</td>
+						<td class="right">
 							<img class="skills_icon" src="../_images_content/git.png" alt="git icon">
 						</td>
-						<td class="right1">
-							&#9724;&#9724;&#9724;&#9723;&#9723;
-						</td>
+					</tr>	
 						
-						<td class="left2">
-							?
-						</td>
-						<td class="right2">
-							&#9723;&#9723;&#9723;&#9723;&#9723;
-						</td>
-					</tr>
+						
+
 					<tr>
-						<td class="left1">
+						<td class="left">
 							Adobe Photoshop
-							<img class="skills_icon" src="../_images_content/photoshop.png" alt="photoshop icon">
 						</td>
-						<td class="right1">
+						<td class="middle">
 							&#9724;&#9724;&#9724;&#9724;&#9723;
 						</td>
-						
-						<td class="left2">
-							Adobe Illustrator
-							<img class="skills_icon" src="../_images_content/illustrator.png" alt="illustrator icon">
+						<td class="right">
+							<img class="skills_icon" src="../_images_content/photoshop.png" alt="photoshop icon">
 						</td>
-						<td class="right2">
+						<td class="description" rowspan="4">
+							<ul>
+								<li>Zwei Jahre Grafiker der Fachschaft MPI der Uni Bayreuth</li>
+								<li>Zwei Jahre Uni-Kino-Leiter der Fachschaft MPI der Uni Bayreuth</li>
+								<li>Unzählige private Projekte und kleine Aufträge</li>
+								<li>Siehe auch <a href="../grafikdesign/index.php">Grafikdesign</a></li>
+							</ul>
+						</td>
+					</tr>
+					<tr>	
+						<td class="left">
+							Adobe Illustrator
+						</td>
+						<td class="middle">
 							&#9724;&#9724;&#9724;&#9723;&#9723;
+						</td>
+						<td class="right">
+							<img class="skills_icon" src="../_images_content/illustrator.png" alt="illustrator icon">
 						</td>
 					</tr>
 					<tr>
-						<td class="left1">
+						<td class="left">
 							Adobe Premiere Pro
-							<img class="skills_icon" src="../_images_content/premiere.png" alt="premiere icon">
 						</td>
-						<td class="right1">
+						<td class="middle">
 							&#9724;&#9724;&#9723;&#9723;&#9723;
 						</td>
-						
-						<td class="left2">
-							Office-Software
-							<img class="skills_icon" src="../_images_content/office.png" alt="office icon">
+						<td class="right">
+							<img class="skills_icon" src="../_images_content/premiere.png" alt="premiere icon">
 						</td>
-						<td class="right2">
+					</tr>
+					<tr>	
+						<td class="left">
+							Office-Software
+						</td>
+						<td class="middle">
 							&#9724;&#9724;&#9724;&#9723;&#9723;
+						</td>
+						<td class="right">
+							<img class="skills_icon" src="../_images_content/office.png" alt="office icon">
 						</td>
 					</tr>
 					
