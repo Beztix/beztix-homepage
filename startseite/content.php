@@ -12,7 +12,27 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 			
 			
 				<p>
-				... auf Beztix.de, meiner persönlichen Homepage.
+				... auf Beztix.de, meiner persönlichen Homepage.<br>
+				<br>
+				Diese Homepage dient sowohl als Anlaufstelle zu meiner Person, quasi als Online-Visitenkarte, als auch als Ort and dem
+				ich meine Projekte und sonstige Dinge veröffentlichen kann.
+				<br>
+				<br>
+				
+				<hr>
+				<br>
+				<b>Diese Homepage befindet sich aktuell im Aufbau und ist entsprechend unvollständig.</b><br>
+				<br>
+				<hr>
+				
+				
+				<br>
+				<br>
+				
+				
+				
+				
+				</p>
 				
 
 			</section>

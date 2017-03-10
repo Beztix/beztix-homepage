@@ -9,6 +9,12 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
             <section class="text">
 
 				<h1>Grafikdesign</h1>
+				
+				<p>
+				
+				Hier werden bald meine kleinen Projekte rund um Grafikdesign, Adobe Photoshop und Illustrator u.ä. vorgestellt...
+				
+				</p>
 			
 				
 

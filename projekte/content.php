@@ -10,7 +10,11 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
 				<h1>Projekte</h1>
 			
+				<p>
 				
+				Hier geht es um meine "Offline-Projekte": Heimwerken, Basteln, Hobby-Schreinern und weiteres...
+				
+				</p>
 
 			</section>
 			

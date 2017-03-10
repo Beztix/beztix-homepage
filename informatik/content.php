@@ -10,6 +10,12 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
 				<h1>Informatik</h1>
 			
+			
+				<p>
+				
+				Hier werden bald diverse Dinge rund um mein Studium, meine Abschlussarbeiten, Programmierung im Allgemeinen usw. vorgestellt...
+				
+				</p>
 				
 
 			</section>

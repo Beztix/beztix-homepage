@@ -10,7 +10,11 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 
 				<h1>Webdesign</h1>
 			
+				<p>
 				
+				Hier werden bald meine kleinen Projekte rund um Webdesign, Homepage-Administration etc. vorgestellt...
+				
+				</p>
 
 			</section>
 			
