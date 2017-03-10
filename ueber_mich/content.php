@@ -221,6 +221,36 @@ if(!defined('AccessConstant')) {die('Direct access not permitted');}
 					
 
 				</table>
+				
+				
+				
+				<br>
+				<br>
+				
+				<h3>CV</h3>
+				
+				<br>
+				TBD
+				<br>
+				<br>
+				<br>	
+				TBD
+				<br>
+				<br>
+				<br>
+				TBD
+				<br>
+				
+				<br>
+				<br>
+				
+				<h3>Persönliches</h3>
+				
+				Beliebtes Urlaubsziel im Sommer ist das Haus meiner Eltern an der Costa Brava in Spanien.<br>
+				Empuriabrava ist wirklich empfehlenswert!<br>
+				<br>
+				Wir vermieten auch, siehe: <a href="http://www.ferienhausmiete.de/4608.htm">Casa Port Moxo in Empuriabrava</a>
+				
 
 			</section>
 			
